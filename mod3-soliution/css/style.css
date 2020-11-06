@@ -1,0 +1,22 @@
+#main-nav{
+	background: #707070;
+}
+#chicken{
+	position: relative;
+	background:  #707070;
+	margin: auto;
+}
+
+#chick{
+	text-align: center;
+	font-size: 21px;
+	font-weight: bold;
+}
+@media(max-width: 576px){
+	 .col-xs{
+		 -ms-flex: 0 0 75%;
+    	flex: 0 0 75%;
+    	max-width: 75%;
+    
+	}
+}
